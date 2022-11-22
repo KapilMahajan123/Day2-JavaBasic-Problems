@@ -42,7 +42,7 @@ public class SingalDigitNumber {
 	    	System.out.println("Nine");	
 	    }else {											//if statement checking the invalid input
 	    	System.out.println("Invalid input");
-	}
-	}
+	 }
+	 }
 
 }
