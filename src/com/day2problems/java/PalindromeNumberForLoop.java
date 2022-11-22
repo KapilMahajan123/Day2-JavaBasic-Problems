@@ -34,5 +34,5 @@ public class PalindromeNumberForLoop {
 			System.out.println("Not Palindrome");
 		}
 
-	}
+	 }
 }
