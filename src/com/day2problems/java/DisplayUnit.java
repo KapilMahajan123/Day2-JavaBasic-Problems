@@ -31,7 +31,7 @@ public class DisplayUnit {
 			System.out.println("Wrong Input....");
 		}
 
-	}
+	 }
 }
 
 
