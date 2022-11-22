@@ -17,6 +17,6 @@ public class SumNaturalNumForLoop {
 			sum = sum + i;
 		}
 		System.out.println("sum of first Natural numbers is =" + sum);
-	}
+	 }
 
 }
