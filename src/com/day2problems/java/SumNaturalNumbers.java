@@ -21,7 +21,7 @@ public class SumNaturalNumbers {
 		}
 		// print the sum
 		System.out.println("sum of first 5 natural numbers is=" + sum);
-	}
+	 }
 
 
 }
