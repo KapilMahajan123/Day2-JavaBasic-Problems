@@ -5,7 +5,7 @@ package com.day2problems.java;
  * @author Kapil
  *
  */
-public class ReverseUntegerNumForLoop {
+public class ReverseIntegerNumForLoop {
 	
 	public static void main(String[] args) {
 		
