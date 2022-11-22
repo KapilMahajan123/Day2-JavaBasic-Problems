@@ -23,6 +23,6 @@ public class ReverseIntegerNum {
 			int num = 231;
 			System.out.println("Reverse of number is " + reverseDigits(num));
 		}
-	}
+	 }
 
 }
