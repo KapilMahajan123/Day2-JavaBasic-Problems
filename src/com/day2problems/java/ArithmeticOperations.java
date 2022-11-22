@@ -58,6 +58,6 @@ public class ArithmeticOperations {
 			System.out.println(result4+" result4 is smaller ");
 		}
 			
-		}
+	}
 
 }
