@@ -2,7 +2,7 @@ package com.day2problems.java;
 
 /**
  * 
- * @author Dipali
+ * @author Kapil
  *
  */
 public class SumNaturalNumbers {
